@@ -1,0 +1,401 @@
+,Name,Surname,Department,Start Date
+319,Aurelia,Giles,Legal Department,2018-01-01
+46,Dane,Schwartz,Asset Management,2018-01-03
+394,Jarrod,Carlson,Media Relations,2018-01-07
+69,Tashya,Schroeder,Payroll,2018-01-08
+84,Tiger,May,Public Relations,2018-01-08
+1,Dean,Gilmore,Accounting,2018-01-10
+248,Brody,Carter,Sales and Marketing,2018-01-13
+74,Indigo,Chen,Quality Assurance,2018-01-15
+157,Hiram,Browning,Public Relations,2018-01-21
+189,Katelyn,May,Payroll,2018-01-23
+235,Joy,Hicks,Asset Management,2018-01-25
+33,Neil,Glass,Finances,2018-01-25
+377,Alana,Potts,DevOps,2018-01-26
+247,Echo,Foster,Human Resources,2018-01-26
+271,Kasper,Alford,DevOps,2018-01-27
+370,Kristen,Christensen,Quality Assurance,2018-01-29
+230,Vaughan,Carter,Sales and Marketing,2018-01-30
+58,Lewis,Ochoa,Sales and Marketing,2018-02-02
+136,Lillith,Pace,Payroll,2018-02-02
+326,Sydnee,Pickett,Customer Service,2018-02-05
+155,Dalton,Dennis,Legal Department,2018-02-07
+28,Edward,Nichols,Software Development,2018-02-08
+340,Bradley,Workman,Advertising,2018-02-09
+309,Rina,Mcfarland,Public Relations,2018-02-10
+303,Ivory,Glenn,Customer Service,2018-02-11
+12,Casey,Tate,Legal Department,2018-02-16
+371,Jerome,Livingston,Advertising,2018-02-19
+193,Irene,Dudley,Software Development,2018-02-25
+93,Dylan,Jackson,DevOps,2018-02-26
+22,Reuben,Stevens,Customer Service,2018-02-26
+90,Clio,Petersen,Data Analysis,2018-02-28
+232,Colt,Mcdaniel,Media Relations,2018-03-03
+47,Lareina,Mercado,Human Resources,2018-03-07
+206,Vivien,Stark,Accounting,2018-03-08
+7,Hamilton,Manning,Media Relations,2018-03-09
+240,Laura,Richmond,Customer Service,2018-03-13
+170,Gretchen,Schroeder,Human Resources,2018-03-20
+388,Alfonso,Jackson,Media Relations,2018-03-25
+87,Brianna,Soto,Data Analysis,2018-03-25
+320,Vance,Hardin,Asset Management,2018-03-26
+178,Summer,Fowler,DevOps,2018-03-27
+100,India,Brock,Data Analysis,2018-03-30
+101,Carol,Mathis,Data Analysis,2018-03-30
+396,Iris,George,Public Relations,2018-04-02
+171,Maxwell,Crosby,Legal Department,2018-04-03
+258,Dylan,Mcfadden,Media Relations,2018-04-05
+63,Adam,Knowles,Finances,2018-04-12
+82,Julie,Bates,Customer Service,2018-04-12
+299,Zephr,Woodward,Research and Development,2018-04-13
+104,Chadwick,Dillon,Legal Department,2018-04-15
+290,Aubrey,Kim,Media Relations,2018-04-19
+356,Halla,Henry,DevOps,2018-04-20
+300,Virginia,Gordon,Software Development,2018-04-20
+41,Burton,Sears,IT Support,2018-04-25
+115,Iris,Ramirez,Legal Department,2018-04-27
+112,Jonas,Moon,DevOps,2018-04-30
+77,Erica,Compton,Customer Relations,2018-05-01
+310,Vera,Mccullough,Human Resources,2018-05-02
+263,Lee,Phelps,Advertising,2018-05-04
+5,Desiree,Delacruz,Data Analysis,2018-05-05
+289,Michelle,Nielsen,Quality Assurance,2018-05-09
+212,Keane,Tanner,Sales and Marketing,2018-05-09
+398,Stewart,Weeks,Advertising,2018-05-15
+19,Barry,Fry,Legal Department,2018-05-15
+328,Elton,Schmidt,Customer Service,2018-05-16
+130,Hedy,Guzman,IT Support,2018-05-20
+337,Tallulah,Dean,Advertising,2018-05-23
+333,Jasper,Gibbs,Research and Development,2018-05-24
+183,Oscar,Copeland,Finances,2018-05-28
+357,Judah,Sloan,Media Relations,2018-05-31
+251,Alma,Ford,Quality Assurance,2018-05-31
+217,Bert,Burke,Software Development,2018-06-01
+225,Leilani,Ayala,Legal Department,2018-06-08
+135,Patience,Mann,Quality Assurance,2018-06-08
+318,Samantha,Lee,Sales and Marketing,2018-06-11
+285,Kirsten,Bernard,IT Support,2018-06-13
+76,Amery,Gardner,IT Support,2018-06-16
+261,Jonah,Mcdowell,Software Development,2018-06-19
+358,Myra,Chambers,Data Analysis,2018-06-20
+348,Jaden,Lowe,Customer Service,2018-06-24
+372,Heather,Warren,Data Analysis,2018-07-02
+38,Abigail,Bishop,Human Resources,2018-07-03
+229,Dominic,Barlow,Customer Relations,2018-07-04
+344,Ferris,Benton,Finances,2018-07-05
+144,Lynn,Fowler,Sales and Marketing,2018-07-12
+244,Jasmine,Howard,Public Relations,2018-07-13
+150,Jameson,Rowland,Customer Relations,2018-07-13
+6,Alfreda,Ryan,DevOps,2018-07-13
+60,Benjamin,Vang,Asset Management,2018-07-16
+253,Quon,Figueroa,Payroll,2018-07-17
+97,Audra,Reyes,Advertising,2018-07-22
+269,Branden,Hammond,DevOps,2018-07-24
+382,Gregory,Berger,Customer Relations,2018-07-25
+3,Cailin,Mills,Data Analysis,2018-07-27
+295,Duncan,Lowery,Customer Service,2018-07-27
+163,Sigourney,Cameron,Public Relations,2018-07-27
+209,Ivana,Bowen,Software Development,2018-07-29
+308,Henry,Bullock,Software Development,2018-08-01
+351,Hedley,Phelps,Advertising,2018-08-01
+265,Asher,Sawyer,Research and Development,2018-08-01
+327,Josiah,Stuart,Quality Assurance,2018-08-01
+220,Uriah,Moss,Customer Service,2018-08-03
+179,Carolyn,Whitney,Media Relations,2018-08-05
+284,Mary,Eaton,Data Analysis,2018-08-11
+32,Beverly,Vasquez,Customer Relations,2018-08-12
+42,Tatyana,Perkins,Customer Relations,2018-08-15
+335,Ali,Tate,Data Analysis,2018-08-18
+164,Ian,Petty,Payroll,2018-08-19
+152,Hyacinth,Holman,Legal Department,2018-08-23
+98,Maris,Rivera,Asset Management,2018-08-30
+246,Lucas,Myers,Data Analysis,2018-09-02
+234,Jamalia,Clarke,Sales and Marketing,2018-09-06
+181,Nicholas,Neal,Finances,2018-09-08
+329,Hyacinth,Mack,Legal Department,2018-09-08
+376,Holmes,Kent,Advertising,2018-09-08
+198,Grady,Charles,Customer Service,2018-09-13
+352,Kelly,Byrd,Research and Development,2018-09-14
+241,Yoko,Gray,Legal Department,2018-09-16
+381,Beck,Padilla,Quality Assurance,2018-09-21
+169,Leilani,May,DevOps,2018-09-22
+56,Bethany,Byers,Advertising,2018-09-25
+210,Oleg,Williamson,Sales and Marketing,2018-09-27
+219,Lars,Roth,Legal Department,2018-09-28
+222,Branden,Cabrera,Customer Relations,2018-09-29
+160,Rigel,Stafford,Asset Management,2018-10-02
+280,Savannah,Wise,Data Analysis,2018-10-04
+267,Simone,Cash,Payroll,2018-10-06
+287,Wesley,Crane,Customer Relations,2018-10-07
+192,Rashad,Mcconnell,Legal Department,2018-10-08
+174,James,Schwartz,DevOps,2018-10-11
+307,Olga,Vincent,Media Relations,2018-10-12
+36,Price,Ferrell,Customer Relations,2018-10-13
+367,Reese,Franks,Advertising,2018-10-14
+176,Arthur,Bradley,DevOps,2018-10-18
+255,Lane,Mendoza,Asset Management,2018-10-19
+378,Clementine,Ford,Quality Assurance,2018-10-20
+154,Ryan,Garrett,IT Support,2018-10-26
+17,Yoshio,Pittman,Asset Management,2018-11-01
+186,Jescie,Bray,Finances,2018-11-03
+264,Felix,Hunt,Advertising,2018-11-14
+106,Plato,Taylor,Customer Service,2018-11-14
+62,Hedwig,Bullock,Software Development,2018-11-17
+211,Sage,Frye,Accounting,2018-11-30
+127,Ronan,Daugherty,Data Analysis,2018-12-04
+393,Paula,Norris,Public Relations,2018-12-06
+45,Ezra,Santos,Human Resources,2018-12-07
+360,Laura,Chan,Research and Development,2018-12-08
+124,Oleg,Love,Advertising,2018-12-09
+339,Lawrence,Berger,Data Analysis,2018-12-09
+321,Fallon,Neal,Accounting,2018-12-10
+105,Ralph,Griffith,Customer Relations,2018-12-11
+245,Tana,Calhoun,Payroll,2018-12-12
+390,Kessie,Rutledge,Payroll,2018-12-14
+353,Isabelle,Harper,Public Relations,2018-12-18
+355,Neil,Orr,Payroll,2018-12-22
+324,Gwendolyn,Castillo,Accounting,2018-12-24
+221,Carter,Cummings,Customer Service,2018-12-25
+304,Zelda,Deleon,Accounting,2018-12-27
+205,George,Frazier,Advertising,2018-12-28
+165,Kibo,Barron,Payroll,2018-12-30
+392,Lucy,Calhoun,Accounting,2019-01-05
+92,Macon,Livingston,Legal Department,2019-01-11
+363,Curran,Farley,Human Resources,2019-01-12
+2,Lucius,Glass,Advertising,2019-01-13
+94,Michael,Pickett,Software Development,2019-01-14
+129,Andrew,Donaldson,Software Development,2019-01-15
+148,Richard,Dillon,Software Development,2019-01-19
+147,Clare,Saunders,Research and Development,2019-01-21
+275,Ainsley,Knight,Accounting,2019-01-21
+23,Fleur,Baker,Legal Department,2019-01-26
+126,Casey,Gross,Customer Service,2019-01-26
+301,Felix,Parks,Data Analysis,2019-01-29
+61,Logan,Sharp,Sales and Marketing,2019-02-03
+239,Eve,Meyer,Software Development,2019-02-04
+311,Neil,Warner,Media Relations,2019-02-05
+78,Kylan,Spencer,Quality Assurance,2019-02-11
+177,Adara,Mclaughlin,Data Analysis,2019-02-12
+332,Diana,Mccall,Quality Assurance,2019-02-14
+286,Knox,Williamson,Customer Relations,2019-02-15
+116,Nathaniel,Puckett,Asset Management,2019-02-17
+134,Keane,Greer,Public Relations,2019-02-18
+49,May,Oliver,Software Development,2019-02-20
+99,Dana,Harrington,IT Support,2019-02-21
+109,Gavin,Garrett,Legal Department,2019-02-23
+330,Lucy,Wade,Research and Development,2019-02-25
+214,Malachi,Mccullough,Public Relations,2019-02-27
+83,Phyllis,Miller,Finances,2019-02-28
+270,Martin,Dalton,Legal Department,2019-03-03
+325,Gage,Vega,DevOps,2019-03-04
+278,Benjamin,Blake,Quality Assurance,2019-03-05
+279,Xerxes,James,Data Analysis,2019-03-06
+123,Anne,Giles,Customer Relations,2019-03-11
+231,Fay,Schroeder,Sales and Marketing,2019-03-15
+282,Keaton,Edwards,Customer Service,2019-03-17
+54,Sheila,Richards,Advertising,2019-03-18
+268,Jelani,Fernandez,Software Development,2019-03-22
+199,Walker,Cline,Public Relations,2019-03-27
+347,Eleanor,Dorsey,Human Resources,2019-03-29
+108,Kelly,Dillon,Software Development,2019-03-30
+141,Denise,Wilkins,Customer Relations,2019-03-30
+137,Lucas,Fuentes,Asset Management,2019-04-05
+227,Taylor,Butler,Legal Department,2019-04-07
+80,Raven,Benton,Advertising,2019-04-09
+43,Dana,Miles,Customer Service,2019-04-10
+70,Hayden,Pollard,Customer Relations,2019-04-13
+11,Rogan,Miranda,Payroll,2019-04-15
+292,Jessamine,Myers,Sales and Marketing,2019-04-18
+18,Scott,Nelson,Accounting,2019-04-24
+384,Kylan,Mccormick,Public Relations,2019-04-26
+138,Darryl,Levy,Human Resources,2019-04-30
+39,Chancellor,Kline,Software Development,2019-05-01
+368,Stewart,Todd,Public Relations,2019-05-01
+133,Jenna,Odom,Sales and Marketing,2019-05-02
+397,Devin,Foley,Accounting,2019-05-04
+323,Vaughan,English,Asset Management,2019-05-06
+272,Paul,Spears,Finances,2019-05-06
+218,Rudyard,Williamson,Accounting,2019-05-06
+79,Ryder,Adams,IT Support,2019-05-07
+338,Chase,Chandler,Human Resources,2019-05-10
+146,Lionel,Wells,Advertising,2019-05-14
+242,Nathan,Mays,Software Development,2019-05-20
+113,Lydia,Mills,Quality Assurance,2019-05-23
+13,Nell,Ewing,Accounting,2019-05-23
+201,Honorato,Solomon,Customer Service,2019-05-24
+4,Audra,Cobb,Research and Development,2019-05-26
+315,Neville,Ball,DevOps,2019-05-26
+151,Otto,Bird,IT Support,2019-05-28
+288,Venus,Love,Legal Department,2019-05-28
+156,David,Lamb,Legal Department,2019-05-29
+359,Allistair,Mcdaniel,Accounting,2019-06-01
+395,Wyoming,Pacheco,Advertising,2019-06-02
+188,Belle,Lane,Data Analysis,2019-06-02
+118,Audra,Horn,Media Relations,2019-06-03
+389,Kennedy,Harrington,Customer Relations,2019-06-06
+331,Miranda,Vasquez,Asset Management,2019-06-08
+128,Adrienne,Higgins,Asset Management,2019-06-08
+185,Keane,Randall,Software Development,2019-06-19
+254,Hu,Simpson,Sales and Marketing,2019-06-27
+302,Eric,Giles,Advertising,2019-07-01
+364,Harding,Mcmillan,Quality Assurance,2019-07-04
+37,Linus,Perry,Data Analysis,2019-07-05
+197,Haviva,Morrow,Research and Development,2019-07-08
+24,Fritz,Tanner,Quality Assurance,2019-07-08
+14,Hayden,Puckett,IT Support,2019-07-09
+103,Desirae,Cash,Data Analysis,2019-07-09
+238,Eleanor,Hood,Accounting,2019-07-09
+346,Thaddeus,Hughes,Public Relations,2019-07-14
+379,Darrel,Mccray,Customer Service,2019-07-19
+72,Baxter,Combs,Customer Service,2019-07-20
+314,Brenda,Barton,IT Support,2019-07-22
+298,Morgan,Massey,Data Analysis,2019-07-26
+166,Teagan,Dodson,Accounting,2019-07-30
+30,Wesley,Weaver,Asset Management,2019-07-30
+51,Hoyt,Kramer,DevOps,2019-08-01
+73,Madonna,Perkins,Data Analysis,2019-08-02
+55,Orlando,Stanley,Advertising,2019-08-04
+313,Xaviera,Carlson,Data Analysis,2019-08-05
+158,Xaviera,Spence,Human Resources,2019-08-06
+208,Serena,Hodge,Customer Relations,2019-08-06
+139,Constance,Rocha,Human Resources,2019-08-13
+266,Isabelle,Jefferson,Data Analysis,2019-08-15
+341,Rosalyn,Bullock,Human Resources,2019-08-19
+161,Linda,Figueroa,Payroll,2019-08-19
+380,Carson,Finley,DevOps,2019-08-20
+117,Aladdin,Knight,Sales and Marketing,2019-08-23
+29,Malcolm,Harvey,Customer Service,2019-08-23
+162,Amelia,Bowen,DevOps,2019-08-24
+34,Zeus,Kirk,Advertising,2019-08-24
+365,Ella,Sloan,Quality Assurance,2019-08-24
+200,Brendan,Pugh,Quality Assurance,2019-08-25
+354,Alexander,Dillard,Research and Development,2019-08-28
+168,Quintessa,Ramsey,Finances,2019-08-31
+191,Georgia,Larson,Finances,2019-09-01
+276,Adrienne,Dalton,Payroll,2019-09-02
+362,Fatima,Robinson,Legal Department,2019-09-06
+256,Cherokee,Dillard,Customer Service,2019-09-06
+67,Ruby,Travis,Accounting,2019-09-08
+196,Maile,Hughes,Legal Department,2019-09-11
+68,Benedict,Mathis,Customer Relations,2019-09-13
+120,Eric,Blackburn,Asset Management,2019-09-17
+53,Nigel,Oneill,Quality Assurance,2019-09-19
+334,Elvis,Davidson,Finances,2019-09-19
+125,Jason,Meyer,Customer Service,2019-09-26
+182,Roanna,Barry,Legal Department,2019-09-28
+281,Justina,Hogan,Software Development,2019-09-29
+172,Aurelia,Campbell,Asset Management,2019-10-01
+202,Anjolie,Powell,IT Support,2019-10-01
+228,Marsden,Oneill,Human Resources,2019-10-02
+257,Candice,Malone,Public Relations,2019-10-03
+262,Quamar,Stewart,Media Relations,2019-10-04
+349,Darius,Goodman,Legal Department,2019-10-06
+132,Idola,Warren,Customer Relations,2019-10-15
+85,Lesley,Fuentes,Quality Assurance,2019-10-16
+9,Hu,Hyde,Customer Service,2019-10-16
+375,Justin,Dalton,Payroll,2019-10-17
+273,Mary,Molina,Payroll,2019-10-18
+343,Carol,Weiss,Legal Department,2019-10-22
+59,Evangeline,Cooley,Payroll,2019-10-31
+119,Hayes,Whitley,Media Relations,2019-10-31
+296,Ciaran,Chavez,Sales and Marketing,2019-11-07
+15,Britanni,Burgess,DevOps,2019-11-11
+203,Fatima,Kerr,IT Support,2019-11-16
+52,Yetta,Thomas,Sales and Marketing,2019-11-19
+260,Slade,Roman,Asset Management,2019-11-20
+312,Macy,Walls,DevOps,2019-11-22
+180,Cally,Gilmore,Media Relations,2019-11-24
+91,MacKenzie,Murphy,Research and Development,2019-11-26
+374,Kiara,Farrell,Research and Development,2019-11-27
+259,Lilah,Hanson,DevOps,2019-12-01
+40,Micah,Bentley,Public Relations,2019-12-04
+140,Cade,Grant,Media Relations,2019-12-09
+66,Megan,Reed,Public Relations,2019-12-11
+249,Karyn,Roy,Payroll,2019-12-13
+89,Ulla,Fulton,Human Resources,2019-12-13
+167,Emi,William,Sales and Marketing,2019-12-15
+114,Shellie,Poole,Research and Development,2019-12-15
+216,George,William,DevOps,2019-12-19
+336,Wynne,Anthony,IT Support,2019-12-20
+383,Phelan,Fields,Quality Assurance,2019-12-27
+57,Deacon,Blevins,Quality Assurance,2019-12-31
+386,Yoshi,Molina,Sales and Marketing,2020-01-02
+342,Tasha,Hodge,Customer Service,2020-01-04
+223,Ruby,Richard,Asset Management,2020-01-05
+190,Margaret,Hooper,Asset Management,2020-01-05
+8,Lyle,Schultz,Legal Department,2020-01-08
+25,Roth,Foster,Accounting,2020-01-09
+145,Leigh,Willis,Data Analysis,2020-01-13
+48,Tanek,Burton,Accounting,2020-01-13
+65,Kyla,Gay,Payroll,2020-01-13
+35,Brynn,Miles,Research and Development,2020-01-14
+142,Lane,Newman,Customer Service,2020-01-14
+283,Rose,Compton,Sales and Marketing,2020-01-16
+274,Connor,Grimes,Asset Management,2020-01-19
+31,Hedwig,Cain,Legal Department,2020-01-20
+215,Hillary,Vega,DevOps,2020-01-23
+75,Olivia,Frederick,Finances,2020-01-24
+86,Xandra,Gonzalez,Research and Development,2020-01-24
+252,Jesse,Wade,Research and Development,2020-01-25
+373,Thane,Rich,Customer Relations,2020-01-26
+204,Keefe,Logan,Payroll,2020-01-28
+316,Colin,Maddox,Payroll,2020-02-05
+213,Ivan,Dillard,Public Relations,2020-02-06
+44,Desirae,Gaines,Advertising,2020-02-09
+102,Ivory,Mccullough,DevOps,2020-02-11
+194,Iona,Mckee,Finances,2020-02-15
+317,Lee,Jacobs,Customer Relations,2020-02-17
+110,Giacomo,Duffy,Quality Assurance,2020-02-26
+122,Stewart,Simmons,Human Resources,2020-02-29
+243,Janna,Green,Accounting,2020-03-04
+387,Tobias,Mcleod,Advertising,2020-03-05
+64,Laith,Moreno,Accounting,2020-03-07
+233,Kane,Rosa,Software Development,2020-03-09
+297,Mannix,Estes,Accounting,2020-03-09
+366,Rhiannon,Dodson,Customer Service,2020-03-09
+350,Josiah,Morrow,Customer Service,2020-03-09
+153,TaShya,Pruitt,Research and Development,2020-03-10
+306,Zeph,English,Sales and Marketing,2020-03-10
+159,Gretchen,Holden,Accounting,2020-03-12
+184,Drake,English,Media Relations,2020-03-12
+399,Amaya,Mercado,DevOps,2020-03-13
+294,Aidan,Schroeder,Public Relations,2020-03-13
+143,Amela,Grant,Quality Assurance,2020-03-15
+131,Fiona,Montoya,IT Support,2020-03-24
+369,Kay,Pratt,Public Relations,2020-03-24
+305,Tate,Chang,IT Support,2020-03-27
+361,Linus,Cantrell,DevOps,2020-04-04
+175,Garrison,Keith,DevOps,2020-04-13
+71,Giselle,Chavez,Accounting,2020-04-14
+173,Jermaine,Newman,DevOps,2020-04-18
+16,Halla,Cantu,IT Support,2020-04-22
+81,Vera,Carver,Asset Management,2020-04-22
+149,Kaden,Moon,IT Support,2020-04-23
+322,Giselle,Dillon,Advertising,2020-04-24
+0,Bradley,Chandler,Accounting,2020-04-26
+26,Jennifer,Murphy,Customer Relations,2020-04-29
+277,Jack,Franco,DevOps,2020-05-03
+21,Oleg,Noble,Media Relations,2020-05-07
+195,Lavinia,Whitfield,Finances,2020-05-10
+345,Kalia,Perez,Software Development,2020-05-13
+391,Rafael,Vaughan,Advertising,2020-05-13
+27,Raymond,Pate,Accounting,2020-05-16
+107,Bruno,Wallace,Human Resources,2020-05-17
+224,Aurora,Macias,Public Relations,2020-05-19
+111,Gemma,Booker,Legal Department,2020-05-22
+121,Blake,Franco,Sales and Marketing,2020-05-28
+50,Kyle,Roach,Customer Relations,2020-06-02
+226,Tanek,Edwards,DevOps,2020-06-04
+88,Liberty,Pena,Advertising,2020-06-06
+207,Kyra,Vance,Data Analysis,2020-06-10
+236,Kiona,Nguyen,Data Analysis,2020-06-11
+20,Aurora,Sanford,Asset Management,2020-06-13
+250,Jarrod,Nicholson,Payroll,2020-06-20
+96,Nicholas,Brock,Quality Assurance,2020-06-24
+291,Katell,Gill,Media Relations,2020-06-25
+237,Quynn,Parsons,Advertising,2020-06-25
+10,Melanie,David,Software Development,2020-06-27
+385,Jordan,Golden,Finances,2020-06-27
+95,Xyla,Ferrell,Human Resources,2020-06-28
+293,Kelsey,Adkins,Accounting,2020-06-29
+187,Grant,Daugherty,Public Relations,2020-06-30
